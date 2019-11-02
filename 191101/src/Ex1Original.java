@@ -19,6 +19,7 @@ public class Ex1Original {
             }
         }
 
+
         public void delete(int index,int Items[]){
             if (index<10) {
                 Items[index]= 0;
