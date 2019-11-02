@@ -4,6 +4,7 @@ public class BookMission3 {
         if(n>0){
             System.out.println(n);
             print(n-1);
+
         }
     }
 
